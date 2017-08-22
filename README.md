@@ -22,3 +22,5 @@ Advanced:
 12. Style change the default (default) appearance of the app - do not do this before solving all previous queues
 
 ALL TASKS HAVE BEEN SUCCESSFULLY COMPLETED! 
+
+If app doesn't work, download mysql-connector-java-5.0.8-bin.jar and add relative path.
